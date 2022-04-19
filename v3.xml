@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'>
-    <updatecheck codebase='https://github.com/LightAPIs/open-in-other-application/releases/download/v1.0.0/open-in-other-application_manifest-v3_v1.0.0.crx' version='1.0.0' />
-  </app>
-</gupdate>
