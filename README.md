@@ -3,9 +3,9 @@
 - English
 - [中文版](/README_CN.md)
 
-> Support to open the URL using other applications in the Chromium kernel browser on a Windows system.
+> Support to open the URL using other applications in the Chromium kernel browser on Windows system.
 
-It can automatically run other applications and transfer information such as URL after opening the matching URL in chromium kernel browser; optionally, enable the right-click menu on the web page and select open URL in other applications.
+It can automatically run other applications and transfer information such as URL after opening the matching URL in chromium kernel browser; optionally, enable the right-click menu. You can open the URL or selection text with other applications on the web page.
 
 Only Windows system is supported.
 
